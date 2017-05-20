@@ -76,7 +76,7 @@
 										<li><a href="">生徒の経験談</a></li>
 										<li><a href="">TALKの食事</a></li>
 										<li><a href="">学校外</a></li>
-										<!-- <li><a href="">Best Student &amp; Teacher</a></li> -->
+										<li><a href="">Best Student &amp; Teacher</a></li>
 									</ul>
 								</div>
 							</div>
