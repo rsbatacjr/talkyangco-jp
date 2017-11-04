@@ -19,6 +19,11 @@
         margin: 0 !important;
       }
     </style>
+    <script type="text/javascript" src="<?php echo THEME_URI ?>/js/jquery.min.js"></script>
+      <script type="text/javascript">
+  	var adminajax = "<?php echo admin_url( 'admin-ajax.php' ); ?>";
+
+      </script>
 </head>
 	<body>
     <div id="floating-menu" class="hidden hidden-xs hidden-sm">
