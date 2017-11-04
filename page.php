@@ -1,23 +1,12 @@
 <?php
-get_header();
+	get_header();
 ?>
-
 <div class="row">
-	<div class="container">
-			<?php if (have_posts()) :
-				while (have_posts()) : the_post(); ?>
-
-					<div class="post">
-						<?php the_content(''); ?>
-						<div class="spacer"></div>
-						<div class="spacer"></div>
-					</div>
-				<?php endwhile;
-				endif; ?>
-
-
-	</div>
+		<?php while (have_posts()) : the_post(); ?>
+	        <?php
+			the_content();
+			?>
+	<?php endwhile; ?>
 </div>
-
-<?php 
-get_footer();
+<?php
+	get_footer();
