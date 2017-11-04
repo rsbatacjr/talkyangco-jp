@@ -64,7 +64,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 						<div class="clearfix"></div>
 					</div>
 				</div>
-				
+
 			</div>
 		</div>
 		<div id="experience-container" class="col-xs-12 col-sm-6 col-md-4">
@@ -121,7 +121,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 										<div class="plan-list-normal">
 											<p><br>IELTS<br>5.0, 5.5, 6.0</p>
 											<span class="plus-sign">+</span>
-										</div>	
+										</div>
 										<div class="plan-list-hover">
 											<p>海外の大学入学や、永住を考えている人へお勧めするコースです。<br>IELTS コース</p>
 											<span class="next-button-black"></span>
@@ -133,7 +133,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 										<div class="plan-list-normal">
 											<p><br>パワースピーキング</p>
 											<span class="plus-sign">+</span>
-										</div>	
+										</div>
 										<div class="plan-list-hover">
 											<p>文法や語彙に自信があっても、スーキングに自信がない人向け、スピーキングに特化したspeaking コース</p>
 											<span class="next-button-black"></span>
@@ -145,7 +145,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 										<div class="plan-list-normal">
 											<p><br>短期留学可能(1-3週間)</p>
 											<span class="plus-sign">+</span>
-										</div>	
+										</div>
 										<div class="plan-list-hover">
 											<p>英語を勉強する時間があまりない人や、どのように英語の学習を進めていいのかわからない人におすすめのコースです。
 短期留学コース</p>
@@ -180,7 +180,7 @@ TOEIC コース</p>
 											<p><br>大学に入学する前にもっと英語を身につけたい人にお勧めのコースです。</p>
 											<span class="next-button-black"></span>
 										</div>
-										
+
 									</div>
 								</div>
 								<div class="plan-list-parent col-xs-12 col-md-4">
@@ -268,7 +268,13 @@ TOEIC コース</p>
 	</div>
 </div>
 <div class="row">
-	<img src="<?php echo THEME_URI; ?>/img/sample-image1.png" class="img-responsive"/>
+	<div class="col-xs-12">
+		<?php do_shortcode("[show_footerImages post_type='inside-philippines']"); ?>
+	</div>
+	<!-- <img src="<?php echo THEME_URI; ?>/img/sample-image1.png" class="img-responsive"/> -->
 </div>
-<?php 
+<div class="row">
+	<div class="col-xs-12 clearfix">&nbsp;</div>
+</div>
+<?php
 get_footer();
