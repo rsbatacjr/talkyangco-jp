@@ -17,25 +17,25 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 					</div>
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.jp/esl-421-521-611/';">
 								<strong>スピーキングコース</strong>
 								<p>ESL 521</p>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick="javascript:window.location = 'http:/talk-academy.jp/toiec/';">
 								<strong>就職活動に有利なTOEIC</strong>
 								<p>Intensive TOEIC</p>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.jp/ielts/';">
 								<strong>外国での大学入学や<br>永住を考えている方</strong>
 								<p>Intensive IELTS</p>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.jp/family-esl/';">
 								<strong>親子で留学</strong>
 								<p>Family ESL</p>
 							</div>
@@ -47,7 +47,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 			</div>
 		</div>
 		<div id="about-container" class="col-xs-12 col-sm-6 col-md-4">
-			<div id="about">
+			<div id="about" onclick="javascript:window.location='http://3d.jesolution.co.kr/canitalk/talk_yangco/';">
 				<div class="mask">
 					<h2>TALKアカデミーについて</h2>
 					<div id="about-normal">
@@ -68,7 +68,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 			</div>
 		</div>
 		<div id="experience-container" class="col-xs-12 col-sm-6 col-md-4">
-			<div id="experience">
+			<div id="experience" onclick="javascript:window.location='http://talk-academy.jp/experiences/';">
 				<div class="mask">
 					<h2>生徒経験談</h2>
 					<div id="experience-normal">
@@ -90,7 +90,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 	<div class="row">
 		<div id="notice-container" class="col-xs-12 col-md-4">
 			<div id="notice">
-				<strong>注意</strong>
+				<a href="http://talk-academy.jp/notice/" style="text-decoration: none; color: #fff;"><strong>注意</strong></a>
 				<p>
 					留学を決定される前に、TALKアカデミーについてのニュースをチェックしましょう。留学に役立つ資料が載っています。
 				</p>
@@ -123,8 +123,10 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p>海外の大学入学や、永住を考えている人へお勧めするコースです。<br>IELTS コース</p>
-											<span class="next-button-black"></span>
+											<a style="color:#666" href='http://talk-academy.jp/ielts-test/'>
+												<p>海外の大学入学や、永住を考えている人へお勧めするコースです。<br>IELTS コース</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -135,8 +137,10 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p>文法や語彙に自信があっても、スーキングに自信がない人向け、スピーキングに特化したspeaking コース</p>
-											<span class="next-button-black"></span>
+											<a style="color:#666" href='http://talk-academy.jp/intensive-speaking/'>
+												<p>文法や語彙に自信があっても、スーキングに自信がない人向け、スピーキングに特化したspeaking コース</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -147,9 +151,11 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p>英語を勉強する時間があまりない人や、どのように英語の学習を進めていいのかわからない人におすすめのコースです。
-短期留学コース</p>
-											<span class="next-button-black"></span>
+											<a style="color:#666" href='http://talk-academy.jp/short-term-study/'>
+												<p>英語を勉強する時間があまりない人や、どのように英語の学習を進めていいのかわからない人におすすめのコースです。
+	短期留学コース</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -164,9 +170,11 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p>フィリピンで最初にTOEIC点数保証コースを取り入れたTALKアカデミーでTOEICの点数上げましょう。
-TOEIC コース</p>
-											<span class="next-button-black"></span>
+											<a href="http://talk-academy.jp/toeic-test/">
+												<p>フィリピンで最初にTOEIC点数保証コースを取り入れたTALKアカデミーでTOEICの点数上げましょう。
+	TOEIC コース</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -177,10 +185,11 @@ TOEIC コース</p>
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p><br>大学に入学する前にもっと英語を身につけたい人にお勧めのコースです。</p>
-											<span class="next-button-black"></span>
+											<a href="http://talk-academy.jp/philippines-and-other-countries/">
+												<p><br>大学に入学する前にもっと英語を身につけたい人にお勧めのコースです。</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
-
 									</div>
 								</div>
 								<div class="plan-list-parent col-xs-12 col-md-4">
@@ -190,8 +199,10 @@ TOEIC コース</p>
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p><br>最小限に留学費用を抑えたい方、<br>サポートします。</p>
-											<span class="next-button-black"></span>
+											<a href="http://talk-academy.jp/best-price/">
+												<p><br>最小限に留学費用を抑えたい方、<br>サポートします。</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -207,7 +218,7 @@ TOEIC コース</p>
 		<div id="best-place-container" class="col-xs-12 col-md-4">
 			<div id="best-place">
 				<div class="mask">
-					<strong>旅行先としても有名</strong>
+					<a href="http://talk-academy.jp/travel/" style="text-decoration: none;color: #fff;"><strong>旅行先としても有名</strong></a>
 					<div id="best-place-list-container">
 						<ul id="best-place-list">
 							<li><a href="#">バギオの街</a></li>
@@ -220,7 +231,7 @@ TOEIC コース</p>
 		</div>
 		<div id="campaign-container" class="col-xs-12 col-md-4">
 			<div id="campaign">
-				<strong>キャンペーン</strong>
+				<a href="http://talk-yangco.kr/campaigns/" style="text-decoration: none;"><strong>キャンペーン</strong></a>
 				<div id="campaign-list-container">
 					<ul id="campaign-list">
 						<li><a href="#">ネイティブ講師による　IELTSクラス</a></li>
@@ -238,12 +249,12 @@ TOEIC コース</p>
 						<div class="col-xs-12">
 							<div class="calendar-list-parent col-xs-6" style="border-right:1px solid #666; border-bottom: 1px solid #666">
 								<div class="calendar-list">
-									<p><br>祝日</p>
+									<p><br><a style="color:#666;" href='http://talk-academy.jp/philippine-holiday/'>祝日</a></p>
 								</div>
 							</div>
 							<div class="calendar-list-parent col-xs-6" style=" border-bottom: 1px solid #666">
 								<div class="calendar-list">
-									<p>ピックアップサービス</p>
+									<p><a style="color:#666;" href='http://talk-academy.jp/official-pickup-dates/'>ピックアップサービス</a></p>
 								</div>
 							</div>
 						</div>
@@ -252,12 +263,12 @@ TOEIC コース</p>
 						<div class="col-xs-12">
 							<div class="calendar-list-parent col-xs-6" style="border-right:1px solid #666">
 								<div class="calendar-list">
-									<p><br>IELTS <br>公式テスト<br>日程</p>
+									<p><br><a style="color:#666;" href='http://talk-academy.jp/ielts-official-test-dates/'>IELTS <br>公式テスト<br>日程</a></p>
 								</div>
 							</div>
 							<div class="calendar-list-parent col-xs-6">
 								<div class="calendar-list">
-									<p><br>TOEIC <br>公式テスト<br>日程</p>
+									<p><br><a style="color:#666;" href='http://talk-academy.jp/toeic-official-test-dates/'>TOEIC <br>公式テスト<br>日程</a></p>
 								</div>
 							</div>
 						</div>
