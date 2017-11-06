@@ -7,7 +7,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12">
-			<h1>기숙사 안내</h1>
+			<h1>Talk academyのドミトリーを見る</h1>
 		</div>
 	</div>
 	<div class="row">
@@ -36,33 +36,33 @@
         <div class="container">
                 <div class="row">
                         <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
-                                <a href="http://talk-academy.kr/official-pickup-dates/" style="background-color: transparent; border-radius: 10px; border: 1px solid #fff; padding: 10px;display:block;color:#fff;text-align:center;">단체픽업일</a>
+                                <a href="http://talk-academy.jp/official-pickup-dates/" style="background-color: transparent; border-radius: 10px; border: 1px solid #fff; padding: 10px;display:block;color:#fff;text-align:center;">公式団体ピックアップ</a>
                         </div>
                         <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
                                 <p style="line-height: 40px;">
-                                연수비용 확인 후에 원하시는 출국 날짜를 선택하실 수 있습니다.
+                                航空券を予約する前に、Talk Academy 公式団体ピックアップ日を確認！
                                 </p>
                         </div>
                 </div>
 
                 <div class="row">
                         <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
-                                <a href="http://talk-academy.kr/experiences/" style="background-color: transparent; border-radius: 10px; border: 1px solid #fff; padding: 10px;display:block;color:#fff;text-align:center;">연수후기</a>
+                                <a href="http://talk-academy.jp/experiences/" style="background-color: transparent; border-radius: 10px; border: 1px solid #fff; padding: 10px;display:block;color:#fff;text-align:center;">留学体験談</a>
                         </div>
                         <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
                                 <p style="line-height: 40px;">
-                                공부중인 학생들의 연수후기를 미리 보실 수 있습니다.
+                                TALK Academyでの留学体験談を読む
                                 </p>
                         </div>
                 </div>
 
                 <div class="row">
                         <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
-                                <a href="http://3d.jesolution.co.kr/canitalk/talk_yangco/" style="background-color: transparent; border-radius: 10px; border: 1px solid #fff; padding: 10px;display:block;color:#fff;text-align:center;">3D학원시설 보기</a>
+                                <a href="http://3d.jesolution.co.jp/canitalk/talk_yangco/" style="background-color: transparent; border-radius: 10px; border: 1px solid #fff; padding: 10px;display:block;color:#fff;text-align:center;">学校施設 3D写真</a>
                         </div>
                         <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
                                 <p style="line-height: 40px;">
-                                어학연수 신청을 하시거나 상담을 원하시면 언제든 문의해주세요
+                                3D写真を使った学校施設の詳細を見る
                                 </p>
                         </div>
                 </div>
