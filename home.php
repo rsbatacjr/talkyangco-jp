@@ -17,7 +17,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 					</div>
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.jp/esl-421-521-611/';">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.jp/yangco-esl/';">
 								<strong>スピーキングコース</strong>
 								<p>ESL 521</p>
 							</div>
