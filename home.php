@@ -49,7 +49,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 		<div id="about-container" class="col-xs-12 col-sm-6 col-md-4">
 			<div id="about" onclick="javascript:window.location='http://3d.jesolution.co.kr/canitalk/talk_yangco/';">
 				<div class="mask">
-					<h2>TALKアカデミーについて</h2>
+					<h2 style="background:transparent">TALKアカデミーについて</h2>
 					<div id="about-normal">
 						<p>クラスルームや宿舎</p>
 						<span class="plus-sign">+</span>
@@ -70,7 +70,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 		<div id="experience-container" class="col-xs-12 col-sm-6 col-md-4">
 			<div id="experience" onclick="javascript:window.location='http://talk-academy.jp/experiences/';">
 				<div class="mask">
-					<h2>生徒経験談</h2>
+					<h2 style="background:transparent">生徒経験談</h2>
 					<div id="experience-normal">
 						<p>TALKで今までにない経験をしましょう</p>
 						<span class="plus-sign">+</span>
