@@ -48,8 +48,8 @@
 							<li><a href="http://talk-academy.com/ielts/">Intensive IELTS</a></li>
 							<li><a href="http://talk-academy.com/toiec/">Intensive TOEIC</a></li>
 							<li><a href="http://talk-academy.com/power-speaking/">パワースピーキング</a></li>
-							<li><a href="http://talk-academy.com/job-ready-en-en/">ワーキングホリデー</a></li>
-							<li><a href="http://talk-academy.com/family-esl-en/">Family ESL</a></li>
+							<li><a href="http://talk-academy.com/job-ready/">ワーキングホリデー</a></li>
+							<li><a href="http://talk-academy.com/family-esl/">Family ESL</a></li>
 							<li><a href="http://talk-academy.com/online-consultation/">Contact us</a></li>
 						</ul>
 					</div>
@@ -57,9 +57,9 @@
 						<ul>
 							<li><a href="/philippine-language-study-plan">留学プラン</a></li>
 							<li>&nbsp;</li>
-							<li><a href="http://talk-academy.com/toeic-test-en/">TOEIC Test</a></li>
+							<li><a href="http://talk-academy.com/toeic-test/">TOEIC Test</a></li>
 							<li><a href="http://talk-academy.com/ielts-test/">IELTS Test</a></li>
-							<li><a href="http://talk-academy.com/intensive-speaking-en/">パワースピーキング</a></li>
+							<li><a href="http://talk-academy.com/intensive-speaking/">パワースピーキング</a></li>
 							<li><a href="http://talk-academy.com/short-term-study/">短期間留学(1~3週間)</a></li>
 							<li><a href="http://talk-academy.com/long-term-study/">長期間留学</a></li>
 							<li><a href="http://talk-academy.com/best-price/">手ごろな費用</a></li>
@@ -160,8 +160,8 @@
 								<a href="http://talk-academy.com/ielts/">Intensive IELTS</a>
 								<a href="http://talk-academy.com/toiec/">Intensive TOEIC</a>
 								<a href="http://talk-academy.com/power-speaking/">パワースピーキング</a>
-								<a href="http://talk-academy.com/job-ready-en/">ワーキングホリデー</a>
-								<a href="http://talk-academy.com/family-esl-en/">Family ESL</a>
+								<a href="http://talk-academy.com/job-ready/">ワーキングホリデー</a>
+								<a href="http://talk-academy.com/family-esl/">Family ESL</a>
 								<a href="http://talk-academy.com/online-consultation/">Contact us</a>
 									</div>
 								</div>
@@ -177,9 +177,9 @@
 							</div>
 							<div id="collapse5" class="panel-collapse collapse">
 									<div class="panel-body">
-								<a href="http://talk-academy.com/toeic-test-en/">TOEIC Test</a>
+								<a href="http://talk-academy.com/toeic-test/">TOEIC Test</a>
 								<a href="http://talk-academy.com/ielts-test/">IELTS Test</a>
-								<a href="http://talk-academy.com/intensive-speaking-en/">パワースピーキング</a>
+								<a href="http://talk-academy.com/intensive-speaking/">パワースピーキング</a>
 								<a href="http://talk-academy.com/short-term-study/">短期間留学(1~3週間)</a>
 								<a href="http://talk-academy.com/long-term-study/">長期間留学</a>
 								<a href="http://talk-academy.com/best-price/">手ごろな費用</a>

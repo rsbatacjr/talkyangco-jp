@@ -48,7 +48,7 @@
                       <li><a href="http://talk-academy.jp/faqs/">FAQ</a></li>
                       <li><a href="http://talk-academy.jp/medical-and-insurance/">保険について</a></li>
                       <li><a href="http://talk-academy.jp/way-to-baguio/">バギオへの行き方</a></li>
-                      <li><a href="http://talk-academy.jp/campaign/">キャンペーン</a></li>
+                      <li><a href="http://talk-academy.jp/campaigns/">キャンペーン</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
@@ -72,17 +72,17 @@
                       <li><a href="http://talk-academy.jp/ielts/">Intensive IELTS</a></li>
                       <li><a href="http://talk-academy.jp/toiec/">Intensive TOEIC</a></li>
                       <li><a href="http://talk-academy.jp/power-speaking/">パワースピーキング</a></li>
-                      <li><a href="http://talk-academy.jp/job-ready-en-en/">ワーキングホリデー</a></li>
-                      <li><a href="http://talk-academy.jp/family-esl-en/">Family ESL</a></li>
+                      <li><a href="http://talk-academy.jp/job-ready/">ワーキングホリデー</a></li>
+                      <li><a href="http://talk-academy.jp/family-esl/">Family ESL</a></li>
                       <li><a href="http://talk-academy.jp/online-consultation/">Contact Us</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
                     <a href="/philippine-language-study-plan">留学プラン</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.jp/toeic-test-en/">TOEIC Test</a></li>
+                      <li><a href="http://talk-academy.jp/toeic-test/">TOEIC Test</a></li>
                       <li><a href="http://talk-academy.jp/ielts-test/">IELTS Test</a></li>
-                      <li><a href="http://talk-academy.jp/intensive-speaking-en/">パワースピーキング</a></li>
+                      <li><a href="http://talk-academy.jp/intensive-speaking/">パワースピーキング</a></li>
                       <li><a href="http://talk-academy.jp/short-term-study/">短期間留学(1~3週間)</a></li>
                       <li><a href="http://talk-academy.jp/long-term-study/">長期間留学</a></li>
                       <li><a href="http://talk-academy.jp/best-price/">手ごろな費用</a></li>
@@ -185,7 +185,7 @@
                               <li><a href="http://talk-academy.jp/faqs/">FAQ</a></li>
                               <li><a href="http://talk-academy.jp/medical-and-insurance/">保険について</a></li>
                               <li><a href="http://talk-academy.jp/way-to-baguio/">バギオへの行き方</a></li>
-                              <li><a href="http://talk-academy.jp/campaign/">캠페인</a></li>
+                              <li><a href="http://talk-academy.jp/campaigns/">캠페인</a></li>
                             </ul>
                           </li>
                           <li class="mobile-dropdown">
@@ -209,17 +209,17 @@
                               <li><a href="http://talk-academy.jp/ielts/">IELTS</a></li>
                               <li><a href="http://talk-academy.jp/toiec/">TOEIC</a></li>
                               <li><a href="http://talk-academy.jp/power-speaking/">パワースピーキング</a></li>
-                              <li><a href="http://talk-academy.jp/job-ready-en/">ワーキングホリデー</a></li>
-                              <li><a href="http://talk-academy.jp/family-esl-en/">Family ESL</a></li>
+                              <li><a href="http://talk-academy.jp/job-ready/">ワーキングホリデー</a></li>
+                              <li><a href="http://talk-academy.jp/family-esl/">Family ESL</a></li>
                               <li><a href="http://talk-academy.jp/online-consultation/">Contact us</a></li>
                             </ul>
                           </li>
                           <li class="mobile-dropdown">
                             <span data-toggle="collapse" data-target="#fifth-mobile-menu">留学プラン</span>
                             <ul id="fifth-mobile-menu" class="collapse">
-                              <li><a href="http://talk-academy.jp/toeic-test-en/">TOEIC Exam</a></li>
+                              <li><a href="http://talk-academy.jp/toeic-test/">TOEIC Exam</a></li>
                               <li><a href="http://talk-academy.jp/ielts-test/">IELTS Exam</a></li>
-                              <li><a href="http://talk-academy.jp/intensive-speaking-en/">パワースピーキング</a></li>
+                              <li><a href="http://talk-academy.jp/intensive-speaking/">パワースピーキング</a></li>
                               <li><a href="http://talk-academy.jp/short-term-study/">短期間留学(1~3週間)</a></li>
                               <li><a href="http://talk-academy.jp/long-term-study/">長期間留学</a></li>
                               <li><a href="http://talk-academy.jp/best-price/">手ごろな費用</a></li>
@@ -261,7 +261,7 @@
                               <li><a href="http://talk-academy.jp/faqs/">FAQ</a></li>
                               <li><a href="http://talk-academy.jp/medical-and-insurance/">保険について</a></li>
                               <li><a href="http://talk-academy.jp/way-to-baguio/">バギオへの行き方</a></li>
-                              <li><a href="http://talk-academy.jp/campaign/">キャンペーン</a></li>
+                              <li><a href="http://talk-academy.jp/campaigns/">キャンペーン</a></li>
                             </ul>
                           </li>
                           <li class="dropdown-submenu">
@@ -285,17 +285,17 @@
                               <li><a href="http://talk-academy.jp/ielts/">IELTS</a></li>
                               <li><a href="http://talk-academy.jp/toiec/">TOEIC</a></li>
                               <li><a href="http://talk-academy.jp/power-speaking/">パワースピーキング</a></li>
-                              <li><a href="http://talk-academy.jp/job-ready-en/">ワーキングホリデー</a></li>
-                              <li><a href="http://talk-academy.jp/family-esl-en/">Family ESL</a></li>
+                              <li><a href="http://talk-academy.jp/job-ready/">ワーキングホリデー</a></li>
+                              <li><a href="http://talk-academy.jp/family-esl/">Family ESL</a></li>
                               <li><a href="http://talk-academy.jp/online-consultation/">Contact us</a></li>
                             </ul>
                           </li>
                           <li class="dropdown-submenu">
                             <a href="/philippine-language-study-plan">留学プラン</a>
                             <ul class="dropdown-menu">
-                              <li><a href="http://talk-academy.jp/toeic-test-en/">TOEIC Test</a></li>
+                              <li><a href="http://talk-academy.jp/toeic-test/">TOEIC Test</a></li>
                               <li><a href="http://talk-academy.jp/ielts-test/">IELTS Test</a></li>
-                              <li><a href="http://talk-academy.jp/intensive-speaking-en/">パワースピーキング</a></li>
+                              <li><a href="http://talk-academy.jp/intensive-speaking/">パワースピーキング</a></li>
                               <li><a href="http://talk-academy.jp/short-term-study/">短期間留学(1~3週間)</a></li>
                               <li><a href="http://talk-academy.jp/long-term-study/">長期間留学</a></li>
                               <li><a href="http://talk-academy.jp/best-price/">手ごろな費用</a></li>
