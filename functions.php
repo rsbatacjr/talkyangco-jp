@@ -592,7 +592,7 @@ function show_consultation_online_form_func() {
 		<div class="row">
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="studentname">Name <span style="color:rgb(255,0,0)">*</span></label>
+					<label class="control-label col-xs-4" for="studentname">お名前（漢字） <span style="color:rgb(255,0,0)">*</span></label>
 					<div class="col-xs-8">
 						<input class="form-control" id="studentname" name="studentname"></input>
 					</div>
@@ -600,7 +600,7 @@ function show_consultation_online_form_func() {
 			</div>
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="englishname">English Name <span style="color:rgb(255,0,0)">*</span></label>
+					<label class="control-label col-xs-4" for="englishname">お名前（ローマ字） <span style="color:rgb(255,0,0)">*</span></label>
 					<div class="col-xs-8">
 						<input class="form-control" id="englishname" name="englishname"></input>
 					</div>
@@ -620,7 +620,7 @@ function show_consultation_online_form_func() {
 		<div class="row">
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="country">Country <span style="color:rgb(255,0,0)">*</span></label>
+					<label class="control-label col-xs-4" for="country">国籍 <span style="color:rgb(255,0,0)">*</span></label>
 					<div class="col-xs-8">
 						<input class="form-control" id="country" name="country"></input>
 					</div>
@@ -628,7 +628,7 @@ function show_consultation_online_form_func() {
 			</div>
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="phone">Phone <span style="color:rgb(255,0,0)">*</span></label>
+					<label class="control-label col-xs-4" for="phone">携帯電話 <span style="color:rgb(255,0,0)">*</span></label>
 					<div class="col-xs-8">
 						<input class="form-control" id="phone" name="phone"></input>
 					</div>
@@ -641,17 +641,17 @@ function show_consultation_online_form_func() {
 					<label class="control-label col-xs-4">Gender</label>
 					<div class="col-xs-8">
 						<label class="radio-inline">
-				      		<input type="radio" name="gender" value="M">Male
+				      		<input type="radio" name="gender" value="M">男性
 					    </label>
 						<label class="radio-inline">
-				      		<input type="radio" name="gender" value="F">Female
+				      		<input type="radio" name="gender" value="F">女性
 					    </label>
 					</div>
 				</div>
 			</div>
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="age">Age</label>
+					<label class="control-label col-xs-4" for="age">年齢</label>
 					<div class="col-xs-8">
 						<input class="form-control" id="age" name="age"></input>
 					</div>
@@ -667,8 +667,8 @@ function show_consultation_online_form_func() {
 							<option value="1">ESL 421, 521, 611</option>
 							<option value="2">Intensive IELTS</option>
 							<option value="3">Intensive TOEIC</option>
-							<option value="4">IELTS Guarantee</option>
-							<option value="5">TOEIC Guarantee</option>
+							<option value="4">IELTS 得点保証</option>
+							<option value="5">TOEIC 得点保証</option>
 							<option value="6">Power Speaking</option>
 							<option value="7">Working Holiday</option>
 							<option value="8">Family ESL </option>
@@ -680,22 +680,22 @@ function show_consultation_online_form_func() {
 		<div class="row">
 			<div class="col-xs-12 col-md-8">
 				<div class="form-group">
-					<label class="control-label col-xs-4">Dormitory type</label>
+					<label class="control-label col-xs-4">ドミトリーの種類</label>
 					<div class="col-xs-9">
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="Single room">Single room
+						<input type="radio" name="dormitorytype" value="Single room">1人部屋
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="Double room">Double room
+						<input type="radio" name="dormitorytype" value="Double room">2人部屋
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="Triple room">Triple room
+						<input type="radio" name="dormitorytype" value="Triple room">3人部屋
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="Quadruple room">Quadruple room
+						<input type="radio" name="dormitorytype" value="Quadruple room">4人部屋
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="Others">Others :
+						<input type="radio" name="dormitorytype" value="Others">その他 :
 					</label>
 					</div>
 				</div>
@@ -707,7 +707,7 @@ function show_consultation_online_form_func() {
 		<div class="row">
 			<div class="col-xs-12">
 				<div class="form-group">
-					<label class="control-label col-xs-2">Purpose of study abroad</label>
+					<label class="control-label col-xs-2">ドミトリーの種類	</label>
 					<div class="col-xs-10">
 					<label class="radio-inline">
 						<input type="radio" name="purpose" value="English conversion">English conversion
@@ -743,7 +743,7 @@ function show_consultation_online_form_func() {
 		<div class="row">
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="currentenglevel">Current english level</label>
+					<label class="control-label col-xs-4" for="currentenglevel">英語学習の目的</label>
 					<div class="col-xs-8">
 						<input class="form-control" id="currentenglevel" name="currentenglevel"></input>
 					</div>
@@ -751,7 +751,7 @@ function show_consultation_online_form_func() {
 			</div>
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="budget">Budget</label>
+					<label class="control-label col-xs-4" for="budget">英語レベル</label>
 					<div class="col-xs-8">
 						<input class="form-control" id="budget" name="budget"></input>
 					</div>
@@ -761,7 +761,7 @@ function show_consultation_online_form_func() {
 		<div class="row">
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4">Language learning experience</label>
+					<label class="control-label col-xs-4">予算</label>
 					<div class="col-xs-8">
 						<label class="radio-inline">
 							<input type="radio" name="learningexperience" >has experience
@@ -774,7 +774,7 @@ function show_consultation_online_form_func() {
 			</div>
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="trainingperiod">Training period</label>
+					<label class="control-label col-xs-4" for="trainingperiod">語学留学の経験</label>
 					<div class="col-xs-8">
 						<input class="form-control" id="trainingperiod" name="trainingperiod"></input>
 					</div>
