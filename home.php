@@ -90,7 +90,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 	<div class="row">
 		<div id="notice-container" class="col-xs-12 col-md-4">
 			<div id="notice">
-				<a href="http://talk-academy.jp/notice/" style="text-decoration: none; color: #fff;"><strong>注意</strong></a>
+				<a href="http://talk-academy.jp/notice/" style="text-decoration: none; color: #fff;"><strong>注意</strong>
 				<p>
 					留学を決定される前に、TALKアカデミーについてのニュースをチェックしましょう。留学に役立つ資料が載っています。
 				</p>
@@ -101,10 +101,9 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 							<span class="next-button"></span>
 						</div>
 					</div>
+				</a>
 					<ul id="notice-list">
-						<li><a href="#">5월 입학가능일 안내</a></li>
-						<li><a href="#">노용이 화난 날(Warning)</a></li>
-						<li><a href="#">노용이 소리 질른 날..ㅋㅋ</a></li>
+						<?php do_shortcode('[show_topThree post_type="news"]'); ?>
 					</ul>
 				</div>
 			</div>
