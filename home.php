@@ -220,9 +220,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 					<a href="http://talk-academy.jp/travel/" style="text-decoration: none;color: #fff;"><strong>旅行先としても有名</strong></a>
 					<div id="best-place-list-container">
 						<ul id="best-place-list">
-							<li><a href="#">バギオの街</a></li>
-							<li><a href="#">１日旅</a></li>
-							<li><a href="#">宿泊旅行</a></li>
+							<?php do_shortcode('[show_topThree post_type="travel"]'); ?>
 						</ul>
 					</div>
 				</div>
@@ -233,9 +231,7 @@ TOEICやIELTSのテスト対策はもちろんの事、これから欧米諸国�
 				<a href="http://talk-yangco.kr/campaigns/" style="text-decoration: none;"><strong>キャンペーン</strong></a>
 				<div id="campaign-list-container">
 					<ul id="campaign-list">
-						<li><a href="#">ネイティブ講師による　IELTSクラス</a></li>
-						<li><a href="#">300点アップ TOEIC 12週間コース</a></li>
-						<li><a href="#">TALKで公式TOEICテストを無料で受けれます。</a></li>
+						<?php do_shortcode('[show_topThree post_type="campaign"]'); ?>
 					</ul>
 				</div>
 			</div>
