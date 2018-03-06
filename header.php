@@ -130,7 +130,7 @@
               <a href="http://talk-academy.tw">TW</a>
               <a href="http://talk-academy.cn">CN</a>
               <a href="http://talk-academy.kr">KOR</a>
-              <a href="#">VN</a>
+              <a href="http://talk-academy.vn">VN</a>
             </div>
           </div>
           <div class="container">
