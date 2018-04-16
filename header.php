@@ -146,7 +146,7 @@
                         </div>
                         <div class="col-xs-12 col-md-4">
                           <div id="quick-links">
-                            <a href="http://talk-academy.jp/wp-content/uploads/2017/08/Brochure-1700519KR.pdf" target="_blank">パンフレット等</a> | <a href="http://talk-academy.jp/wp-content/uploads/2017/08/KOREA-TALK-OT-170329.pdf" target="_blank">オリエンテーション</a> | <a href="http://talk-academy.jp/online-consultation/">Contact Us</a>
+                            <a href="http://talk-academy.jp/wp-content/uploads/2018/04/%E3%80%90TALK%E3%80%91Brochure%20(2017%E5%B9%B411%E6%9C%88%E6%9B%B4%E6%96%B0).pdf" target="_blank">パンフレット等</a> | <a href="http://talk-academy.jp/wp-content/uploads/2017/08/KOREA-TALK-OT-170329.pdf" target="_blank">オリエンテーション</a> | <a href="http://talk-academy.jp/online-consultation/">Contact Us</a>
                           </div>
                         </div>
                         </div>
